@@ -1,0 +1,10 @@
+				@font-face {
+					font-family: 'avenir-next-regular';
+					src: url('/wp-content/uploads/useanyfont/2062Avenir-next-regular.woff2') format('woff2'),
+						url('/wp-content/uploads/useanyfont/2062Avenir-next-regular.woff') format('woff');
+					  font-display: auto;
+				}
+
+				.avenir-next-regular{font-family: 'avenir-next-regular' !important;}
+
+		
